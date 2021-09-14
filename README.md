@@ -10,7 +10,7 @@ Criado com as seguintes tecnologias:
 
 ## Rodando o Servidor
 Rode o ng serve no cmd para um novo servidor. Navegue até http://localhost:4200/. O app vai automaticamente recarregar se você alterar qualquer um dos arquivos-fonte
-The app will automatically reload if you change any of the source files.
+
 
 ### Instalar o Angular 9
 npm install -g @angular/cli@9.0.0-rc.7
