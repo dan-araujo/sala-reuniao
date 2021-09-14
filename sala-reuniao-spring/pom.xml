@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>br.com.santander.fullstack.developer</groupId>
-	<artifactId>sala-reuniao</artifactId>
+	<artifactId>sala-reuniao-spring</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>sala-reuniao</name>
+	<name>sala-reuniao-spring</name>
 	<description>Demo de uma sala de reuniões</description>
 	<properties>
 		<java.version>1.8</java.version>
